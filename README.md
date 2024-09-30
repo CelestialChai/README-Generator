@@ -1,8 +1,8 @@
 
-  # kfjdd
+  # ReadMe Generator
 
   ## Description
-  jkjdf
+  Generator used to create a readme file
 
   ## Table of Contents
   - [Installation](#installation)
@@ -19,13 +19,13 @@
   =========
 
   ## Usage
-  kjdfds
+  by following the prompts after using node index.js
 
   ## License
   This project is licensed under the MIT license.
 
   ## Contributing
-  me
+  Amanda G
 
   ## Tests
   ========
@@ -33,5 +33,5 @@
   ========
 
   ## Questions
-  If you have any questions, you can find me on [GitHub](https://github.com/jkfg) or contact me via email at kfdjgf@yahoo.com.
+  If you have any questions, you can find me on [GitHub](https://github.com/celestialchai) or contact me via email at celestialchai404@gmail.com.
     

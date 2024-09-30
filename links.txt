@@ -1,0 +1,8 @@
+Here is a link to the walkthrough video on how the code works
+- https://www.youtube.com/watch?v=hVghAr_nLow
+Description
+- in the terminal type node index.js
+- follow the prompts
+- readme file is generated
+- click on the .md file to view generated read me
+- 
